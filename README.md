@@ -18,8 +18,11 @@ You can refine the count by clearing the string prior t splitting or validatting
 
 ## PROGRAM:
 ```python
+'''
+Program for getting the word count from a text.
 developed by : Siva Chandran R
-reference number: 22005531
+Register Number: 22005531
+'''
 num=0
 with open("git.txt","r") as f1:
     for i in f1:
